@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gustavo-Zamai
-- 👀 I’m interested in HTML, CSS, JavaScript, Python and PHP
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and PHP
+- 👀 I’m interested in HTML, CSS, JavaScript, Python , JAVA and PHP
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python , JAVA and PHP
 - 💞️ I’m looking to collaborate on everything that brings me knowledge
 - 📫 How to reach me IG: @gsimons95, gustavosimaozamai@gmail.com
 
