@@ -1,4 +1,8 @@
-Olá, sou  o Gustavo Zamai
+Olá, sou  o Gustavo Zamai! Atualmente estou no 2º Semestre de ADS.
+
+##
+
+
 <div align="center">
   <a href="https://github.com/Gustavo-Zamai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Zamai&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
