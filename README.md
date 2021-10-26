@@ -1,4 +1,4 @@
-Olá, sou  o Gustavo Zamai! Atualmente estou no 2º Semestre de ADS.
+Hi, I'm Gustavo Zamai, analysis and systems development student, interesting in web development, currently learning JAVA HTML, CSS, JS, PHP and MySQL.
 
 ##
 
