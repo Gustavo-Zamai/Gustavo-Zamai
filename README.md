@@ -5,7 +5,7 @@ Hi, I'm Gustavo Zamai, analysis and systems development student, interesting in 
 
 <div align="center">
   <a href="https://github.com/Gustavo-Zamai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Zamai&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Zamai&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Zamai&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
