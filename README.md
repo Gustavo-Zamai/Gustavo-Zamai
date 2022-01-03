@@ -1,6 +1,6 @@
 Hi, I'm Gustavo Zamai, analysis and systems development student and Fullstack Developer ☕.
 
-Skills💻: JS, HTML, CSS, JAVA, Python, PHP and MySQL;   
+Skills💻: JS, HTML, CSS, Python, PHP, JAVA and MySQL;   
 Learning 📚: NodeJS, Typescript, C# and .NET;
  
 
