@@ -1,4 +1,8 @@
-Hi, I'm Gustavo Zamai, analysis and systems development student and Fullstack Developer, interesting in web development, games, Star Wars and G.O.T., currently learning NodeJS, Typescript, C# and .NET. Knowledge about JS, HTML5, CSS3, JAVA, Python, PHP and MySQL.
+👋 Hi, I'm Gustavo Zamai, analysis and systems development student and Fullstack Developer.
+
+Skills💻: JS, HTML, CSS, JAVA, Python, PHP and MySQL;   
+Learning 📚: NodeJS, Typescript, C# and .NET;
+ 
 
 ##
 
