@@ -1,4 +1,4 @@
-Hi, I'm Gustavo Zamai, analysis and systems development student, interesting in web development, games, Star Wars and G.O.T., currently learning JAVA HTML, CSS, JS, PHP and MySQL.
+Hi, I'm Gustavo Zamai, analysis and systems development student, interesting in web development, games, Star Wars and G.O.T., currently learning NodeJS, Typescript, C# and .NET. Knowledge about JS, HTML5, CSS3, JAVA, Python, PHP and MySQL.
 
 ##
 
