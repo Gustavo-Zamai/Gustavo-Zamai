@@ -17,10 +17,10 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg
   <img align="center" alt="Gus-.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
  
 ##
-Hobbies🎮📺: <img align="center" height="" width="" src="https://user-images.githubusercontent.com/92702717/148151517-96344177-2297-4352-aa52-096a0b74ea0b.png"/>
-<img align="center" height="" width="" src="https://user-images.githubusercontent.com/92702717/148151301-77203125-8156-4f2a-a49c-8b664ae03adb.png"/>
-<img align="center" height="" width="" src="https://user-images.githubusercontent.com/92702717/148151355-18623eb5-ec16-4a95-8317-389623d9298c.png"/>
-<img align="center" height="" width="" src="https://user-images.githubusercontent.com/92702717/148151411-00826bde-eb96-4363-9992-ed135432a2d3.png"/>
+Hobbies🎮📺: <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/92702717/148151517-96344177-2297-4352-aa52-096a0b74ea0b.png"/>
+<img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/92702717/148151301-77203125-8156-4f2a-a49c-8b664ae03adb.png"/>
+<img align="center" height="55" width="40" src="https://user-images.githubusercontent.com/92702717/148151355-18623eb5-ec16-4a95-8317-389623d9298c.png"/>
+<img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/92702717/148151411-00826bde-eb96-4363-9992-ed135432a2d3.png"/>
 
 
 
