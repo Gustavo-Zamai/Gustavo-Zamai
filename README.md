@@ -1,4 +1,9 @@
 Hello World I'm Gustavo Zamai, Analysis and Systems Development Student and Fullstack Developer ☕.
+
+##
+Hobbies🎮📺:
+<img height="50" width="40" src="https://user-images.githubusercontent.com/92702717/148150790-3a6d1bc9-af84-4175-8dff-40c31880d391.png">
+
 ##
 Skills💻: <img align="center" alt="Gus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
