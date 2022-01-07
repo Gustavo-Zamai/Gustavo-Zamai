@@ -15,9 +15,7 @@ Learning 📚: <img align="center" alt="Gus-NodeJS" height="30" width="40"
 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 <img align="center" alt="Gus-ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Gus-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="Gus-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-  <img align="center" alt="Gus-.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
- 
+  
 ##
 Hobbies🎮📺: <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/92702717/148151517-96344177-2297-4352-aa52-096a0b74ea0b.png"/>
 <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/92702717/148151301-77203125-8156-4f2a-a49c-8b664ae03adb.png"/>
