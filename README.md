@@ -1,5 +1,5 @@
 Hello World. 
-I'm Gustavo Zamai, Analysis and Systems Development Student and Fullstack Developer ☕.
+I'm Gustavo Zamai, Analysis and Systems Development Student and Back End Developer ☕.
 
 ##
 Skills💻: <img align="center" alt="Gus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
