@@ -15,7 +15,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
 ##
 Learning 📚: <img align="center" alt="Gus-NodeJS" height="30" width="40"
 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-<img align="center" alt="Gus-Go" height="30" width="40"
+  <img align="center" alt="Gus-Typescript" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="Gus-Go" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img align="center" alt="Gus-Docker" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
