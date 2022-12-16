@@ -11,7 +11,7 @@ Skills💻: <img align="center" alt="Gus-JS" height="30" width="40" src="https:/
   <img align="center" alt="Gus-Bash" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 <img align="center" alt="Gus-Linux" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
 ##
 Learning 📚: <img align="center" alt="Gus-NodeJS" height="30" width="40"
 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
