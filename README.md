@@ -1,5 +1,5 @@
 Hello Everyone, my name's Gustavo Simão Zamai, i'm from Brazil, state of São Paulo, from a small town called Mococa. </br>
-Analysis and Systems Development Student and Front-end Developer Junior, in love with coffe ☕.
+Analysis and Systems Development Student and Front-end Developer Junior, in love with JavaScript ecosystem and coffe ☕.
 
 ##
 Skills💻: </br>
