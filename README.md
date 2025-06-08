@@ -48,9 +48,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Zamai&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustavo-Zamai&layout=compact&theme=dracula" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Gustavo-Zamai&theme=dracula&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
-![snake gif](https://github.com/Gustavo-Zamai/Gustavo-Zamai/blob/output/github-contribution-grid-snake.svg)
 
