@@ -52,5 +52,5 @@
 </div>
 
 ###
-
+![snake gif](https://github.com/Gustavo-Zamai/Gustavo-Zamai/blob/output/github-contribution-grid-snake.svg)
 
