@@ -51,28 +51,29 @@
 
 <ul>
   <li>
-    🔗 <a href="https://github.com/Gustavo-Zamai/ucl-api-node-ts-express" target="_blank"><strong>ucl-api-node-ts-express</strong></a><br>
+    🔗 <a href="https://github.com/Gustavo-Zamai/ucl-api-node-ts-express" target="_blank" rel="noopener noreferrer"><strong>ucl-api-node-ts-express</strong></a><br>
     RESTful API simulating a Premier League database using Node.js, TypeScript, Express and Prisma.<br>
     <strong>Stack:</strong> Node.js, TypeScript, Express, PostgreSQL, Prisma, Docker
   </li><br>
 
   <li>
-    🎮 <a href="https://github.com/Gustavo-Zamai/poke-api-client" target="_blank"><strong>poke-api-client</strong></a><br>
-    A frontend client built with TypeScript that consumes PokéAPI and displays paginated Pokémon data.<br>
+    🎮 <a href="https://github.com/Gustavo-Zamai/poke-api-client" target="_blank" rel="noopener noreferrer"><strong>poke-api-client</strong></a><br>
+    A frontend client built with JavaScript that consumes PokéAPI and displays paginated Pokémon data.<br>
     <strong>Stack:</strong> TypeScript, HTML, CSS, PokéAPI
+     <strong>Live demo:</strong> <a href="https://gustavo-zamai.github.io/poke-api-client/" target="_blank" rel="noopener noreferrer">Click here</a>
   </li><br>
 
   <li>
-    🌐 <a href="https://github.com/Gustavo-Zamai/social-media-api" target="_blank"><strong>social-media-api</strong></a><br>
+    🌐 <a href="https://github.com/Gustavo-Zamai/social-media-api" target="_blank" rel="noopener noreferrer"><strong>social-media-api</strong></a><br>
     Backend for a basic social network with user and post management. Includes authentication and CRUD operations.<br>
-    <strong>Stack:</strong> Node.js, TypeScript, PostgreSQL, Prisma, Express
+    <strong>Stack:</strong> Node.js, TypeScript, PostgreSQL, Prisma, Express, Docker
   </li><br>
 
   <li>
-    🎬 <a href="https://github.com/Gustavo-Zamai/movie-recommendation" target="_blank"><strong>movie-recommendation</strong></a><br>
+    🎬 <a href="https://github.com/Gustavo-Zamai/movie-recommendation" target="_blank" rel="noopener noreferrer"><strong>movie-recommendation</strong></a><br>
     Responsive site that fetches and recommends movies using an external API.<br>
     <strong>Stack:</strong> HTML, CSS, JavaScript<br>
-    <strong>Live demo:</strong> <a href="https://gustavo-zamai.github.io/movie-recommendation/" target="_blank">Click here</a>
+    <strong>Live demo:</strong> <a href="https://gustavo-zamai.github.io/movie-recommendation/" target="_blank" rel="noopener noreferrer">Click here</a>
   </li>
 </ul>
 
@@ -83,13 +84,14 @@
 
 <ul>
   <li>
-    🚀 <a href="https://github.com/Gustavo-Zamai/space-shooter" target="_blank"><strong>space-shooter</strong></a><br>
+    🚀 <a href="https://github.com/Gustavo-Zamai/space-shooter" target="_blank"  rel="noopener noreferrer"><strong>space-shooter</strong></a><br>
     Classic arcade-style shooter game built from scratch using HTML5 canvas and JavaScript.<br>
     <strong>Stack:</strong> JavaScript, HTML5 Canvas, CSS
+    <strong>Live demo:</strong> <a href="https://gustavo-zamai.github.io/space-shooter/" target="_blank" rel="noopener noreferrer">Click here</a>
   </li><br>
 
   <li>
-    🔍 <a href="https://github.com/Gustavo-Zamai/git-find" target="_blank"><strong>git-find</strong></a><br>
+    🔍 <a href="https://github.com/Gustavo-Zamai/git-find" target="_blank"  rel="noopener noreferrer"><strong>git-find</strong></a><br>
     A React app that consumes the GitHub API to search and display repositories from any user.<br>
     <strong>Stack:</strong> React, TypeScript, GitHub REST API, Styled Components
   </li>
