@@ -59,8 +59,8 @@
   <li>
     🎮 <a href="https://github.com/Gustavo-Zamai/poke-api-client" target="_blank" rel="noopener noreferrer"><strong>poke-api-client</strong></a><br>
     A frontend client built with JavaScript that consumes PokéAPI and displays paginated Pokémon data.<br>
-    <strong>Stack:</strong> TypeScript, HTML, CSS, PokéAPI
-     <strong>Live demo:</strong> <a href="https://gustavo-zamai.github.io/poke-api-client/" target="_blank" rel="noopener noreferrer">Click here</a>
+    <strong>Stack:</strong> TypeScript, HTML, CSS, PokéAPI<br>
+    <strong>Live demo:</strong> <a href="https://gustavo-zamai.github.io/poke-api-client/" target="_blank" rel="noopener noreferrer">Click here</a>
   </li><br>
 
   <li>
@@ -86,7 +86,7 @@
   <li>
     🚀 <a href="https://github.com/Gustavo-Zamai/space-shooter" target="_blank"  rel="noopener noreferrer"><strong>space-shooter</strong></a><br>
     Classic arcade-style shooter game built from scratch using HTML5 canvas and JavaScript.<br>
-    <strong>Stack:</strong> JavaScript, HTML5 Canvas, CSS
+    <strong>Stack:</strong> JavaScript, HTML5 Canvas, CSS<br>
     <strong>Live demo:</strong> <a href="https://gustavo-zamai.github.io/space-shooter/" target="_blank" rel="noopener noreferrer">Click here</a>
   </li><br>
 
