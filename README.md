@@ -12,9 +12,9 @@
 
 <p align="left">
 ✨ Creating bugs since 2021<br>
-📚 Recently completed a backend-focused bootcamp (Node.js, TypeScript, SQL) and currently leveling up in full-stack development with TypeScript and React  
-🎯 Goal: Master scalable full-stack applications, focusing on clean architecture, backend logic, and modern frontend development  
-🎲 Fun fact: Passionate about solving complex problems — from code bugs to RPG strategy challenges
+📚 Currently deepening my skills in full-stack web development with a focus on backend (Node.js, TypeScript, SQL - MySQL & PostgreSQL) through a hands-on bootcamp<br>  
+🎯 Goal: Master scalable backend architectures and database management, while refining frontend capabilities<br>  
+🎲 Fun fact: Passionate about solving complex problems — from code bugs to RPG strategy challenges<br>
 </p>
 
 ###
