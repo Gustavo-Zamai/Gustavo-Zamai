@@ -97,7 +97,7 @@
   </li><br>
 
   <li>
-    🔗 <a href="https://github.com/Gustavo-Zamai/mongodb-crud-api-ts" target="_blank" rel="noopener noreferrer"><strong>mongodb-crud-api-ts</strong></a><br>
+    🧩 <a href="https://github.com/Gustavo-Zamai/mongodb-crud-api-ts" target="_blank" rel="noopener noreferrer"><strong>mongodb-crud-api-ts</strong></a><br>
     A simple RESTful API for managing users using Node.js, TypeScript, and MongoDB.<br>
     <strong>Stack:</strong> TypeScript, Express, MongoDB, Docker
   </li><br>
