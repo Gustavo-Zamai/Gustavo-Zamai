@@ -97,6 +97,12 @@
   </li><br>
 
   <li>
+    🔗 <a href="https://github.com/Gustavo-Zamai/mongodb-crud-api-ts" target="_blank" rel="noopener noreferrer"><strong>mongodb-crud-api-ts</strong></a><br>
+    A simple RESTful API for managing users using Node.js, TypeScript, and MongoDB.<br>
+    <strong>Stack:</strong> TypeScript, Express, MongoDB, Docker
+  </li><br>
+
+  <li>
     🔗 <a href="https://github.com/Gustavo-Zamai/ts-url-shortener" target="_blank" rel="noopener noreferrer"><strong>ts-url-shortener</strong></a><br>
     A simple and efficient URL shortener that converts long URLs into short, shareable links with automatic redirection.<br>
     <strong>Stack:</strong> TypeScript, Express, MongoDB, Docker
