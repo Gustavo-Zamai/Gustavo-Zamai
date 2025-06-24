@@ -94,7 +94,13 @@
     🔍 <a href="https://github.com/Gustavo-Zamai/git-find" target="_blank"  rel="noopener noreferrer"><strong>git-find</strong></a><br>
     A React app that consumes the GitHub API to search and display repositories from any user.<br>
     <strong>Stack:</strong> React, TypeScript, GitHub REST API, Styled Components
-  </li>
+  </li><br>
+
+  <li>
+    🔗 <a href="https://github.com/Gustavo-Zamai/ts-url-shortener" target="_blank" rel="noopener noreferrer"><strong>ts-url-shortener</strong></a><br>
+    A simple and efficient URL shortener that converts long URLs into short, shareable links with automatic redirection.<br>
+    <strong>Stack:</strong> TypeScript, Express, MongoDB, Docker
+  </li><br>
 </ul>
 
 </details>
