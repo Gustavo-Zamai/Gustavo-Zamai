@@ -93,7 +93,8 @@
   <li>
     🔍 <a href="https://github.com/Gustavo-Zamai/git-find" target="_blank"  rel="noopener noreferrer"><strong>git-find</strong></a><br>
     A React app that consumes the GitHub API to search and display repositories from any user.<br>
-    <strong>Stack:</strong> React, TypeScript, GitHub REST API, Styled Components
+    <strong>Stack:</strong> React, TypeScript, GitHub REST API, Styled Components<be>
+    <strong>Live demo:</strong> <a href="https://gustavo-zamai.github.io/git-find/" target="_blank" rel="noopener noreferrer">Click here</a>
   </li><br>
 
   <li>
