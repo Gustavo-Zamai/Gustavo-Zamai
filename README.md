@@ -108,6 +108,14 @@
     A simple and efficient URL shortener that converts long URLs into short, shareable links with automatic redirection.<br>
     <strong>Stack:</strong> TypeScript, Express, MongoDB, Docker
   </li><br>
+
+  <li>
+    💖 <a href="https://github.com/Gustavo-Zamai/our-story" target="_blank"  rel="noopener noreferrer"><strong>Our Story</strong></a><br>
+     A personal website to celebrate love, milestones, and shared memories in a beautifully way.<br>
+    <strong>Stack:</strong> TypeScript, JavaScript, HTML5, CSS<br>
+    <strong>Live demo:</strong> <a href="https://gustavo-zamai.github.io/our-story/" target="_blank" rel="noopener noreferrer">Click here</a>
+  </li><br>
+  
 </ul>
 
 </details>
